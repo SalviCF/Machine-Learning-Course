@@ -1,1 +1,1 @@
-Machine Learning course Andrew Ng Stanford University
+[Machine Learning course by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
